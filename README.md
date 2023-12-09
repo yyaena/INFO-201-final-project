@@ -2,6 +2,11 @@
 INFO 201 group final project
 
 ```{r}
+cities_population <- read.csv("us_cities.csv")
+ufo_sightings <- read.csv("UFos_coord.csv")
+```
+
+```{r}
 image_path <- "Users/cindysusanto/Downloads/map.jpeg"
 image_file <- "map.jpeg"
 knitr::include_graphics(image_file)
