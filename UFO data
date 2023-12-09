@@ -1,0 +1,3 @@
+```{r}
+ufo_data <- read_delim("UFOs_coord.csv")
+```
