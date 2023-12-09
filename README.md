@@ -1,7 +1,6 @@
 # INFO-201-final-project
 INFO 201 group final project
 
-**Executive summary**
 ```{r}
 image_path <- "Users/cindysusanto/Downloads/map.jpeg"
 image_file <- "map.jpeg"
