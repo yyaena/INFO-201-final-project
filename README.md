@@ -1,8 +1,14 @@
 # INFO-201-final-project
 INFO 201 group final project
 
+## Our data for this project
+
+### For U.S cities populations
 ```{r}
 cities_population <- read.csv("us_cities.csv")
+```
+### For UFO sightings in each U.S cities
+```{r}
 ufo_sightings <- read.csv("UFos_coord.csv")
 ```
 
